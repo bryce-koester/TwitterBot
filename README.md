@@ -1,5 +1,7 @@
 # TwitterBot
 Twitter Bot Handle: @Bryces_bot  
+Note: keys needed to use twitter api are not included in this repository,  
+those can be obtained by applying for a twitter developer account  
 Created using following tutorial: https://youtu.be/W0wWwglE1Vc  
   -github source: https://github.com/ykdojo/twitterbotsample  
   
